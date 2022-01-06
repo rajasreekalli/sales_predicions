@@ -1,13 +1,15 @@
 Attached the data visualization for the Sales predictions.
 
+The following is an analysis of trends in sales data and how we can use these trends in sales to better predict and optimize future business decisions. As I find new things I am interested in further exploring I will continue to add on and organize my findings accordingly
+
+The slides have visuals and descriptions of the most relevant figures. Of most important note as a brief summary
+
 Sales per year over the past 25 years have mostly been steady
 The most common range of outlet sales for stores on average is between $1000-2000 per day
-We need to focus on the Grocery store types to improve the sales by providing the similar type of resources like the high sales Type.
-Bases in the given data the Household and Groceries (Fruits and Vegetables) Types are having good number of sales where as the ‘Others’ and ‘Seafood’ types are pretty low in all outlets.
-Visibility is critical on to increase/balance our sales on each item.
-If any item is not marked clearly or not an easy way to locate them, customer may lose patience and skip buying that product or item.
-Based on the visibility data, most of Item’s visibility is good, however we should push more on the “Others” item type along with “Health and Hygiene which can improve our sales.
-Our sales are also pretty good on ”Household” and “Food and Vegetable” item types, we should consider to have them more visibility to the customers which can bump our sales on these items.
+Retail price is highest for seafood and alot of starch and fast food surprisingly.
+Medium size outlets tend to produce the most sales
+There is no real trend between the most visible items at stores and those that produce the most sales/have a certain mean retail price(MRP)
+
 
 [Sales_Prediction_PPT.pptx](https://github.com/rajasreekalli/sales_predicions/files/7318953/Sales_Prediction_PPT.pptx)
 
